@@ -11,7 +11,7 @@
 
 static CALayer *TRVSStillLayer = nil;
 static CALayer *TRVSTransitioningLayer = nil;
-static NSTimeInterval const TRVSTransitionDuration = .3f;
+static NSTimeInterval const TRVSTransitionDuration = .2f;
 
 @interface TRVSNavigationControllerTransitionAnimiationDelegate : NSObject
 
